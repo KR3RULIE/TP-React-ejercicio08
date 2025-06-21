@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { Button, Form } from "react-bootstrap";
+import "../index.css"
 
 const Formulario = () => {
   const [nombre, setNombre] = useState("");
@@ -46,7 +47,7 @@ const Formulario = () => {
   };
 
   return (
-    <section className="container sombra bg-info-subtle rounded mt-3">
+    <section className="container sombra bg-info-subtle rounded mt-3 w-md-50">
       <Form className="py-3" onSubmit={handleSubmit}>
         <Form.Text className="text-muted">
           Los campos con un (<span className="text-danger">*</span>) son
