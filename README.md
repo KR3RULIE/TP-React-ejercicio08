@@ -1,4 +1,4 @@
-# Aplicación React: Lista de Empleados con Componentes Reutilizables
+# Aplicación React: Formulario de Registro
 
 Esta es una aplicación web desarrollada con React que contiene un formulario simple para la carga de datos personales.
 

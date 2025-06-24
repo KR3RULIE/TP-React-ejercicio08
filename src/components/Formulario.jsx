@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Button, Form } from "react-bootstrap";
-import "../index.css"
+import "../index.css";
 
 const Formulario = () => {
   const [nombre, setNombre] = useState("");
