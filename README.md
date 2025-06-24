@@ -13,18 +13,23 @@ Esta es una aplicación web desarrollada con React que contiene un formulario si
 
 1. Clona este repositorio:
 
-bash
+```bash
 git clone https://github.com/KR3RULIE/TP-React-ejercicio08
+```
 
 2. Instala las dependencias:
 
+```bash
 bash
 npm install
+```
 
 3. Inicia el servidor de desarrollo:
 
+```bash
 bash
 npm run dev
+```
 
 ## 👨‍💻 Autor
 
